@@ -1,2 +1,6 @@
+# Force .rs files to be Rust (optional, already default)
 *.rs linguist-language=Rust
+
+# Exclude Makefile from language stats
 *.M linguist-detectable=false
+Makefile linguist-detectable=false  # If your Makefile has no extension
