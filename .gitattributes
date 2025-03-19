@@ -1,2 +1,2 @@
 *.rs linguist-language=Rust
-*.Makefile linguist-detectable=false
+*.M linguist-detectable=false
